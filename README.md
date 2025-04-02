@@ -96,10 +96,6 @@ Contributions are welcome! Feel free to fork the repository, create a new branch
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## 💬 Contact
